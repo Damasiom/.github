@@ -125,8 +125,8 @@ At **Damasiom**, we apply this ancient philosophy to modern AI:
 ## 🎯 Our Mission
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="40" height="40" />
-
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png" alt="Bullseye" width="40" height="40" />
+  
 > *"To democratize AI development by providing tools that are as strong as Damascus steel—*<br>
 > *combining unmatched performance, reliability, and elegance to empower developers*<br>
 > *in building the next generation of AI-powered solutions."*
