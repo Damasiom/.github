@@ -143,7 +143,7 @@ graph LR
     B --> C[⚡ 10ms Response]
     B --> D[🛡️ 99.99% Uptime]
     B --> E[🔧 Easy Integration]
-    B --> F[📊 Real Analytics]
+    B --> F[📊 Real Time Analytics]
     C --> G[Success]
     D --> G
     E --> G
